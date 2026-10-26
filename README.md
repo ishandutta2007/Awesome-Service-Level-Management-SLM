@@ -76,7 +76,7 @@ The following table summarizes industry-leading enterprise SaaS and hosted SLM s
 
 Curated self-hosted and open-source tools for sovereign SLA management, ITIL service desk operations, and cloud-native SLO monitoring.
 
-Sorted in descending order by **GitHub Stars_Count**:
+Sorted in descending order by **GitHub_Stars_Count**:
 
 - **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** [![GitHub_Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
   *Self-hosted SLA availability & uptime monitoring platform.* Provides real-time SLA percentage dashboards, status pages, multi-protocol checks (HTTP, HTTPS, TCP, Ping, DNS, Docker), certificate expiry notifications, and instant alerts across 90+ notification channels.
