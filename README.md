@@ -76,39 +76,39 @@ The following table summarizes industry-leading enterprise SaaS and hosted SLM s
 
 Curated self-hosted and open-source tools for sovereign SLA management, ITIL service desk operations, and cloud-native SLO monitoring.
 
-Sorted in descending order by **GitHub Star Count**:
+Sorted in descending order by **GitHub Stars_Count**:
 
-- **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** [![GitHub stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
+- **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** [![GitHub_Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
   *Self-hosted SLA availability & uptime monitoring platform.* Provides real-time SLA percentage dashboards, status pages, multi-protocol checks (HTTP, HTTPS, TCP, Ping, DNS, Docker), certificate expiry notifications, and instant alerts across 90+ notification channels.
 
-- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
   *Comprehensive open-source ITIL 4 Service Desk and IT asset management.* Features advanced SLA & OLA management with customizable working calendars, automatic escalation triggers, resolution targets, customer service catalogs, and multi-entity governance.
 
-- **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+- **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
   *Modern open-source web-based support & ticketing system.* Features native SLA policies with custom first-response and solution-time limits, business-hours calendar calculations, proactive escalation notifications, and audit-proof ticket history.
 
-- **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)  
+- **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub_Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)  
   *Lightweight, self-hosted PHP/Laravel helpdesk and shared mailbox.* Offers a dedicated SLA Management module supporting custom business hours, SLA target timers, priority matrices, and automated alerts before SLA violations occur.
 
-- **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
+- **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
   *Widely deployed open-source customer support ticket system.* Includes built-in Service Level Agreement (SLA) plans, grace period tracking, automatic escalation for overdue tickets, and custom routing rules per department.
 
-- **[Sloth](https://github.com/slok/sloth)** [![GitHub stars](https://img.shields.io/github/stars/slok/sloth?style=social&color=white)](https://github.com/slok/sloth/stargazers)  
+- **[Sloth](https://github.com/slok/sloth)** [![GitHub_Stars](https://img.shields.io/github/stars/slok/sloth?style=social&color=white)](https://github.com/slok/sloth/stargazers)  
   *Cloud-native Prometheus SLO (Service Level Objectives) generator.* Enables teams to specify SLOs and SLAs as declarative code (YAML / Kubernetes CRDs), automatically generating Prometheus recording rules, multi-window multi-burn-rate alerts, and Grafana dashboards.
 
-- **[Pyrra](https://github.com/pyrra-dev/pyrra)** [![GitHub stars](https://img.shields.io/github/stars/pyrra-dev/pyrra?style=social&color=white)](https://github.com/pyrra-dev/pyrra/stargazers)  
+- **[Pyrra](https://github.com/pyrra-dev/pyrra)** [![GitHub_Stars](https://img.shields.io/github/stars/pyrra-dev/pyrra?style=social&color=white)](https://github.com/pyrra-dev/pyrra/stargazers)  
   *Prometheus-native SLO & SLA monitoring framework.* Visualizes error budgets, burn rates, and SLA compliance trends with an intuitive web UI and Kubernetes custom resource definitions (CRDs).
 
-- **[OpenSLO](https://github.com/OpenSLO/OpenSLO)** [![GitHub stars](https://img.shields.io/github/stars/OpenSLO/OpenSLO?style=social&color=white)](https://github.com/OpenSLO/OpenSLO/stargazers)  
+- **[OpenSLO](https://github.com/OpenSLO/OpenSLO)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenSLO/OpenSLO?style=social&color=white)](https://github.com/OpenSLO/OpenSLO/stargazers)  
   *Vendor-neutral, open specification for defining Service Level Objectives (SLOs) and SLAs as code.* Standardizes schemas for Service Level Indicators (SLIs), error budgets, alerting thresholds, and automated compliance pipelines across platforms.
 
-- **[iTop](https://github.com/Combodo/iTop)** [![GitHub stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
+- **[iTop](https://github.com/Combodo/iTop)** [![GitHub_Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
   *Complete ITIL-compliant open-source ITSM suite.* Delivers a fully customizable CMDB, helpdesk ticketing, service contracts, and granular SLA/OLA management with graphical impact analysis and CSV synchronization tools (AGPL-3.0).
 
-- **[Znuny](https://github.com/znuny/Znuny)** [![GitHub stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)  
+- **[Znuny](https://github.com/znuny/Znuny)** [![GitHub_Stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)  
   *Enterprise-grade open-source ITSM platform (fork of OTRS).* Delivers ITIL-aligned SLA definitions, escalation workflows, business calendar schedules, and ticket lifecycle tracking for on-premise deployments (GPL-3.0).
 
-- **[Pulse](https://github.com/Erchoc/pulse)** [![GitHub stars](https://img.shields.io/github/stars/Erchoc/pulse?style=social&color=white)](https://github.com/Erchoc/pulse/stargazers)  
+- **[Pulse](https://github.com/Erchoc/pulse)** [![GitHub_Stars](https://img.shields.io/github/stars/Erchoc/pulse?style=social&color=white)](https://github.com/Erchoc/pulse/stargazers)  
   *Lightweight, self-hosted SLA monitoring platform built with Go and React.* Deploys multi-protocol global probes (HTTP, TCP, WebSocket, DNS, ICMP), rolling SLA compliance target windows (7D–365D), maintenance exclusion filters, and webhook notifications.
 
 ---
